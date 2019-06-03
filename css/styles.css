@@ -9,6 +9,17 @@
     outline: 1px dotted black;
 }
 
+/* Universal */
+h1 {
+  font-size: 5em;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h1 span:nth-child(even) {
+  color: thistle;
+}
+
 /* Homepage */
 .home {
   background: teal;
@@ -22,8 +33,4 @@
 /* Contact */
 .contact {
   background: thistle;
-}
-
-.contact h1 {
-  
 }
