@@ -8,3 +8,22 @@
 * {
     outline: 1px dotted black;
 }
+
+/* Homepage */
+.home {
+  background: teal;
+}
+
+/* Bio */
+.bio {
+  background: turquoise;
+}
+
+/* Contact */
+.contact {
+  background: thistle;
+}
+
+.contact h1 {
+  
+}
