@@ -34,3 +34,10 @@ h1 span:nth-child(even) {
 .contact {
   background: thistle;
 }
+
+/* Portfolio */
+figure {
+  background: #c0ffee;
+  padding: 1em;
+  width: 200px;
+}
